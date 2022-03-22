@@ -12,8 +12,7 @@ ___________________________
 
 🗒 Can reach me at: biran922@gmail.com
 
-💻 My Most recent project: https://github.com/ilia054/CowBullGame
-
+💻 My Most recent project:
 ___________________________
 
 
