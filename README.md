@@ -1,6 +1,6 @@
 **Hi ✌, I’m Biran Fridman.**
 
-**currently studying BSC in software engineering at Ort Braude college!**
+**currently studying BSC in software engineering at Ort Braude college and working in a student position at Elbit Systems**
 
 
 ___________________________
