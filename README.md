@@ -1,17 +1,13 @@
 **Hi ✌, I’m Biran Fridman.**
 
-**currently studying BSC in software engineering at Ort Braude college and working in a student position at Elbit Systems**
+**B.Sc. in Software Engineering graduate from Ort Braude College. Recently completed a student position at Elbit Systems. Currently seeking my next opportunity to contribute and grow as a software engineer.**
 
-
-___________________________
-
-👨‍🎓 About Me
 
 ___________________________
 
 🗒 Can reach me at: biran922@gmail.com
 
-💻 My Most recent project: https://github.com/biran922/BullCowGame
+💻 My Most recent project: https://github.com/biran922/Citation-Prediction
 ___________________________
 
 
